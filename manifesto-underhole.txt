@@ -228,9 +228,11 @@
    
    
    
-   		VOCÊ É UM GUERRILHEIRO QUE QUEREMOS EM NOSSA CIBERCULTURA.
-   		---------------------------------------------------------- 
-        
+   VOCÊ É UM GUERRILHEIRO QUE QUEREMOS EM NOSSA CIBERCULTURA.
+   ---------------------------------------------------------- 
+   
+   #underhole on Freenode
+   
   ================================================================================
   O Dilúvio da WEB foi feito em 1997 quando Mother Gopher foi desligada e a tomada
   da WWW foi difundida. NÓS somos o Pós Dilúvio. Nós somos a cultura UnderHole.
