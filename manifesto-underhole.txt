@@ -1,0 +1,238 @@
+                           MANIFESTO underHole
+                      Subcultura alternativa da Web
+                      
+  ====================================================================
+   ESCRITO: Jefferson 'Slackjeff' Rocha
+   DATA   : 14/04/2019
+   VERSÃO : 1
+  ====================================================================
+
+  Vivemos em um mundo onde estamos cada vez se distanciando do conceito
+  KISS, um conceito que visa a simplicidade acima de tudo! Muitas pesso-
+  as estão a cada dia mais vendadas em um mundo onde a beleza é o que
+  realmente importa. O conteúdo? Quase já não existe mais.
+  São poucas pessoas que fazem tudo isso valer e as grandes industrias
+  INTERNACIONAIS sempre querendo arrecadar mais e mais o seu dinheiro
+  Conquistado em muitos casos com muito suor.
+  
+  Eles não se importam realmente com você. A importância é realmente o
+  dinheiro que é arrecadado. Você vai abrir uma lojinha virtual? Bom
+  eles lhe oferecem o grande protocolo HTTPS. Um procolo que faz um
+  túnel criptográfico e usa nas maiorias dos casos um software grátis
+  chamado de openSSL.
+  Eles empurram para os mais leigos esse protocolo por ser mais seguro!
+  "Você precisa proteger os dados do seu cliente", "Por apenas X seu 
+  cliente estará seguro", "Sem o HTTPS você perderá vendas" e por ai 
+  vai.
+  
+  E para ajudar os browsers sendo eles de software livre ou não vão na
+  mesma pilha. Sem protocolo HTTPS o seu site é INSEGURO, o que te leva
+  a acabar comprando um certificado por 200 reais + por ano.
+  Muitas hospedagem te dão um certificado renovável por 1 ano, para você
+  ficar fidelizado e depois pagar.
+  UM ABSURDO, o protocolo deveria ser grátuito e padronizado, segurança
+  deve ser levado em primeiro lugar.
+  A WWW é um grande consórcio e deveria força a todos a darem está segu-
+  rança gratuitamente.
+  
+  Os browsers cada vez mais consomem mais recursos, mas para que?
+  Precisamos de tanto será para fazer uma simples renderização? Transf-
+  ormar um simples documento de texto com tags(html) em um formato visu-
+  almente melhor?
+  É necessário mesmo comer muita memória e muito processamento?
+
+  Se perdemos quando o protocolo gopher foi intitulado morto pela 
+  criação da WWW. Ela matou a nossa internet real.
+  A internet acabou por ali, a simplicidade era levada acima de tudo,
+  onde o que realmente importava era apenas a escrita!  E não outros
+  tipos de mídias.
+  E também Não se importando com qualquer tipo de cor, raça ou até mesmo
+  pessoas com problemas que o padrão chama de "anormalidades".
+  
+  Se perdemos também quando as famosas redes sociais, ou mensageiros
+  tomaram conta da sociedade. O nosso bom papo via IRC foi trocado por
+  fotos. E a boa conversa foi esquecida! Você não precisava ver quem
+  estava do outro lado, a boa atitute de papo era visto com o tempo.
+  
+  Boas amizades foram formados naqueles tempos e até mesmo juntaram
+  casais.
+  O IRC nos ensinou que a ver que aparência é algo que não 
+  importa e é degradada com o tempo.
+  
+  O Protocolo HTTP(s) deu acesso aos maiores comentadores de todos
+  os tempos, onde tudo é motivo de apontar o dedo, tudo é LIKE/DISLIKE
+  onde um bom texto é descartado se não houver fotos. Onde a mídia como
+  vídeos são mais importantes que a leitura.
+  Onde um dominio é necessário para entrar na indexação do Google. E o
+  mesmo ainda te ajuda quebrando todo seu anonimato.
+  
+  Nos anos 90 era poucas pessoas que tinha um dominio próprio! A velha
+  história de "Fica melhor de te achar" ou o velho papo "É mais profissional"
+  é apenas uma das jogadas para te  comer dinheiro.
+  Alternativas GRÁTUITAS e LIVRES como alguns DNS já existiam desde os anos
+  90, e eram muito utilizadas, principalmente em servidores domésticos.
+  E ninguem nunca reclamou. Muitos e muitos voltavam ao seu espaço na web por
+  vontade própria e não por sugestão de um algoritmo.
+  
+  É isso que você realmente quer? Viver em um mundo virtual onde você
+  não pode falar as suas ideas pois vai ser julgado o tempo todo?
+  Você realmente quer ser julgado por suas ideias, suas opiniões?
+  A manipulação é a arte de te obrigar a seguir um padrão.
+  Você precisa ser liberto.
+  
+  Os verdadeiras WEBSITES se foram também com a degradação do gopher.
+  Os sites são entupidos de programação Javascript, PHP, Ruby, Php entre
+  outros. São ótimas linguagens mas que muitos programadores não usam com
+  conciência.
+  Muitos utilizam para arrecadar os seus dados para Estatística quebrando
+  assim o seu anonimato, e talvez o vendem para empresas.
+  Isso é um absurdo que jamais deveria acontecer!
+  O anonimato deve ser um padrão. Pessoas ruins podem se aproveitar disso
+  mas as boas acabam pagando também e são caçados juntamente com os ruins.
+  
+  A Cultura 'underHole' não é um programa, não é uma alternativa a todas
+  as pessoas e sim uma Cultura, um ativismo que você pode praticar e fazer
+  parte de toda a nossa história. E usando a decentralização por padrão.
+  
+  
+  PARA QUEM SE DESTINA?  
+  ----------------------------------------------------------------------------
+  
+   * Aos que gostam de surfar na web para se divertir e para aumentar seu grau
+   de conhecimento de áreas diversificadas.
+  
+   * A pessoas que gostam de compartilhar seus conteúdos sem medo do julgamento.
+      
+   * A pessoas que queiram ter seu espaço na WEB facilmente, não precisando de um
+   grande servidor! E que queiram hospedar como alternativa seu 'holespace' em
+   casa.
+  
+   * A pessoas que estão fartas da roubalheira de comilança das grandes empresas.
+  
+   * A pessoas que gostam de alternativas e gostam de criarem os seus próprios
+   HACKS e divulgar para o mundo a sua obra.
+  
+   * A pessoas que gostam da liberdade e de ser livre! Acima de qualquer coisa.
+   
+   * A pessoas que adoram a simplicidade e o Texto Plano no seu formato mais
+   selvagem.
+   
+   * A pessoas que queiram se distanciar da grande massa.
+    
+   * Aos que não estão mais sentindo o tesão na web convecional. Por estar
+   infestado de 'social'ites.
+   
+   * As pessoas que gostam da descentralização na sua forma mais medieval.
+   
+   * Aos que queiram reecriar toda uma rede, sem complicação e acima de tudo
+   ensinar toda o processo de segurança para outros guerrilheiros.
+   
+   * Aos que gostam do protocolo SSH, o protocolo MAIS seguro de todos os tempos,
+   e grátuito a nós bits mortais.
+   
+   * Aos que estão de saco cheio com os COMEDORES/Browsers.
+   
+   * Aos que queiram um protocolo criptografado por padrão, sem ter que
+   desembolsar nenhum centavo por isto.
+  
+   * A você que vê o apache,nginx,lightppd entre outros um grande vilão onde
+   consomem um recurso desnecessário do servidor! E usam toda a camada de com-
+   plexidade cada vez mais.
+   
+   * A você que quer a complexidade cada vez mais longe.
+   
+   * A você que quer ter o seu nome na história da nossa cultura.
+   
+  ----------------------------------------------------------------------------
+  
+  O QUE É A CULTURA UNDERHOLE?
+  ============================
+  
+  Somos uma Cibercultura que despreza todo tipo de complexidade, ela é descartada
+  na ráiz.
+  Nós utilizamos o SFTP como protocolo padrão, uma alternativa segura nativamente
+  ao padronizado HTTP(s).
+  Por não termos uma indexação, que vasculha os servidores como o Google, você é
+  livre para divulgar somente para quem você quiser.
+  Temos um servidor o primeiro que hospeda o DAD HOLE. É um arquivo em texto plano
+  que divulga os Holes. Está 'Indexação' é feita somente para quem o quiser.
+  
+  Hole? O que é?
+  Hole é o termo que usamos para o espaço de cada usuário. Este buraco é aonde
+  você hospeda os seus conteúdos abertamente para todos. É um website? Não.
+  Todo conteúdo é formado por arquivos selvagens como .txt. e diretórios. Você
+  pode hospedar qualquer conteúdo, como imagens, vídeos entre outras coisas. Mas
+  o seu servidor, principalmente caseiro será comprometido pela banda que ira
+  consumir.
+  A ideia principal do UnderHole é hospedar arquivos de texto plano pelo baixo
+  consumo de banda já que um mega arquivo em Texto crú não passará de alguns Kbytes.
+  Um arquivo em texto plano de 15k de linhas tem em média 560 Kbytes e não passará
+  por nenhuma renderização :)
+  
+  A banda/recurso usado em um servidor é minímo mesmo com um alto número de acessos.
+  Em nosso mundo ainda existem pessoas que usam internet discada, como seu principal
+  acesso a WEB. Elas serão as mais beneficiadas, os paises mais pobres se beneficiam
+  e agradecem.
+    
+  Nessa forma medieval criamos um HoleSpace. Onde é totalmente descentralizado.
+  Você pode inclusive copiar facilmente o Hole de outra pessoa e passar a hospedar
+  como um espelho.
+  Isso é digno quando o conteúdo para você é realmente útil.
+  Você também pode criar no mesmo servidor outros Holes, como por exemplo para um
+  amigo(s) de confiança, permitindo assim acesso de 'Escrita/Leitura' naquele
+  determinado diretório.
+  Você e seu(s) amigo(s) terão um custo quase minimo hospedando em grupo.
+    
+  
+  VOCÊ NÃO PRECISA.
+  =================
+  
+   * Para acesso você não precisará ter um browser! E sim um simples cliente SFTP
+   Hoje em dia até gerenciadores como 'Thunar' 'Nautilus' Entre outros tem suporte
+   nativo ao acesso SFTP.
+   Muitos gerenciados de celular nativos também te oferecem este recurso.
+      
+   * Você não precisará comprar um dominio! O seu dominio é o ip do seu servidor.
+   Para servidores caseiros como alternativa você pode usar algum tipo de DNS.
+   Não recomendamos você utilizar um dominio, invista seu dinheiro em outra coisa.
+   
+   * Você NÃO precisará comprar um certificado SSL. O próprio protocolo SSH já
+   disponibiliza a criptografia nativamente. Ou seja todo transporte é seguro.
+   
+   * Se você usa alguma distribuição Linux você pode criar alias/nicks facilmente
+   para seus servidores favoritos em /etc/hosts. Assim permitindo acesso mais fácil.
+   
+   * Autenticação não depende de chaves cruzadas, o acesso a Hole é direto especifi-
+   cando somente o usuário que por padrão utilizamos 'anonhole'.
+   Mas você pode querer criar um hole privado e dar acesso somente com chaves cru-
+   zadas.
+   
+   
+   COMO FUNCIONA A CONEXÃO?
+   ========================
+   
+   É direta! Você tem acesso diretamente ao servidor usando como intermédio o SFTP.
+   Chamamos esse tipo de conexão de 'GET.AND.EXECUTE' ou 'GAE'. Nesse formato é
+   direto sem necessitar nada além disso como um renderização.
+   
+
+
+      +---+        G A E       +----+
+      |   |    Prótocolo SSH   |    |
+      |   | +----------------> |    |
+      +---+                    +----+
+      Usuário                   Hole
+  
+   No Hole do usuário, ele poderá dar permissões aos seus visitantes como desejar.
+   O acesso SSH não é fornecido e não recomendamos isso.
+   
+   
+   
+   		VOCÊ É UM GUERRILHEIRO QUE QUEREMOS EM NOSSA CIBERCULTURA.
+   		---------------------------------------------------------- 
+        
+  ================================================================================
+  O Dilúvio da WEB foi feito em 1997 quando Mother Gopher foi desligada e a tomada
+  da WWW foi difundida. NÓS somos o Pós Dilúvio. Nós somos a cultura UnderHole.
+  ================================================================================
+   
